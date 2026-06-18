@@ -4,7 +4,7 @@
 
 ### Information Security Consultant | ISO 27001 Lead Auditor | Security Assessment Practitioner | Software Engineer
 
-I help organizations assess, build, and improve their information security programs.
+I help Startups, Fintech and SaaS Companies assess, build, and improve their information security programs.
 
 [![Email](https://img.shields.io/badge/Email-raiahadmehdi%40gmail.com-1A1A1A?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:raiahadmehdi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahad%20Mehdi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahad-m-khan)
