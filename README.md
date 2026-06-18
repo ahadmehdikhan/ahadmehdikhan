@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahad Mehdi
+# Ahad Mehdi Khan
 
 ### Information Security Consultant | ISO 27001 Lead Auditor | Security Assessment Practitioner | Software Engineer
 
