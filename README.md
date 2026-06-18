@@ -8,7 +8,7 @@ I help Startups, Fintech and SaaS Companies assess, build, and improve their inf
 
 [![Email](https://img.shields.io/badge/Email-raiahadmehdi%40gmail.com-1A1A1A?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:raiahadmehdi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahad%20Mehdi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahad-m-khan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tcwsec.com-BA1616?style=for-the-badge\&logo=firefox\&logoColor=white)](https://tcwsec.com)
+[![Website](https://img.shields.io/badge/Portfolio-tcwsec.com-BA1616?style=for-the-badge\&logo=firefox\&logoColor=white)](https://tcwsec.com)
 
 </div>
 
